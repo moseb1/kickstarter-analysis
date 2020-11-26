@@ -15,13 +15,9 @@ I would recommend she go ahead and launch her play fundraising. Make sure she en
 The failure rate is high in October due to the ongoing sportings activities - 
 MLB playoff begins, the NFL and NBA also in progress.
 
-<img width="564" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/72223864/100175999-6e49b700-2e9d-11eb-84cd-ca49d9f9c58f.png">
-
 ### Analysis of Outcomes Based on Goals
 I found out smaller goals were successful. The data show goals set less than $5,000 become successful while exceeding $10,000 fail. 
 If she plans to set her goals less than $5,000, I say go for it. Good luck, and I hope this analysis is helpful.
-
-<img width="562" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/72223864/100176034-7f92c380-2e9d-11eb-8fd9-17ba76c1ca6c.png">
 
 
 ### Challenges and Difficulties Encountered
