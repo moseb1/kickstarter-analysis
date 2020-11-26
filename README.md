@@ -29,15 +29,17 @@ There are outliers in the dataset for the successful campaigns goals which range
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions you can draw about the Outcomes based on Launch Date?  
 A successful fundraising campaign window is short. She only has May and June to wrap-up her campaign, else it's bound to fail. Another conclusion is that October has the highest failure rate in the year.
 
-- What can you conclude about the Outcomes based on Goals?
+- What can you conclude about the Outcomes based on Goals?  
 She should set her goals low, like $5,000 or less in order to have a successful campaign.
 
-- What are some limitations of this dataset?
+- What are some limitations of this dataset?  
+The dataset covers less than 10 years of campaignes (2009 to 2017) and doestn't consider during a natural disater such as 2020 pandermic year or September 11 terror attack
 
-- What are some other possible tables and/or graphs that we could create?
+
+- What are some other possible tables and/or graphs that we could create?  
 We could've created bar charts to visualize the data as well.
 
 
