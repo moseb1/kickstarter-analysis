@@ -11,13 +11,15 @@ There were no challenges - I had enough clean data to help me analyze her fundra
 
 ### Analysis of Outcomes Based on Launch Date
 April to July is the best window to launch a successful fundraising campaign. With May and June being the best two months. 
-I would recommend she go ahead and launch her play fundraising. Make sure she ends her campaign by the end of July.
+We recommend she go ahead and launch her play fundraising. Make sure she ends her campaign by the end of July.
 The failure rate is high in October due to the ongoing sportings activities - 
-MLB playoff begins, the NFL and NBA also in progress.
+MLB playoff begins, the NFL and NBA also in progress.  
+<img width="567" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/72223864/100294514-0060c680-2f55-11eb-88ab-59cd98e23571.png">
 
 ### Analysis of Outcomes Based on Goals
-I found out smaller goals were successful. The data show goals set less than $5,000 become successful while exceeding $10,000 fail. 
-If she plans to set her goals less than $5,000, I say go for it. Good luck, and I hope this analysis is helpful.
+We found out smaller goals were successful. The data show goals set less than $5,000 become successful while exceeding $10,000 fail. 
+If she plans to set her goals less than $5,000, we say go for it. Good luck and hope this analysis is helpful.  
+<img width="562" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/72223864/100294522-06ef3e00-2f55-11eb-9dfb-8f876ebb1592.png">
 
 
 ### Challenges and Difficulties Encountered
@@ -44,7 +46,7 @@ We could've created bar charts to visualize the data as well.
 
 
 
-#---------------------------------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
 # An Analysis of Kickstarter Campaigns
 Performing analysis on kickstarter data to uncover trends
 
